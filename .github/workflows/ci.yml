@@ -1,4 +1,4 @@
-name: Check code qality - имя проверки может быть любое
+name: Check code qality
 
 on: [push]
 
